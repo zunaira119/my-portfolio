@@ -18,7 +18,7 @@ let resumeData = {
         },
         {
             "name": "facebook",
-            "url": "",
+            "url": "https://www.facebook.com/profile.php?id=100008420198252",
             "className": "fa fa-facebook"
         }
     ],
