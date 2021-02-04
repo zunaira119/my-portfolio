@@ -1,5 +1,6 @@
 let resumeData = {
     "imagebaseurl": "https://ivy555.github.io/",
+    "email" : "zunaira0107@gmail.com",
     "name": "Zunaira javed",
     "role": "Full Stack Developer",
     "linkedinId": "https://www.linkedin.com/in/zunaira-javed-5576bb98/",
@@ -59,7 +60,7 @@ let resumeData = {
         },
         {
             "CompanyName": "Suave Solutions",
-            "specialization": "Php Laravel developer",
+            "specialization": "Full Stack developer",
             "MonthOfJoining": "Nov 2020",
             "MonthOfLeaving": "Continue",
             "Achievements": ""

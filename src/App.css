@@ -22,7 +22,9 @@
   border-radius: 9px;
   padding: 10px;
   border: groove;
-
+}
+.conatct{
+  color: #11ABB0;
 }
 @keyframes App-logo-spin {
   from {
